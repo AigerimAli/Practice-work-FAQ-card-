@@ -44,7 +44,7 @@ First of all, we created the skeleton of the project. We used HTML and created d
 ### Built with
 
 - HTML elements
-- CSS custom properties
+- CSS 
 - Flexbox
 - JavaScript
 
